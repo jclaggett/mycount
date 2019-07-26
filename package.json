@@ -1,0 +1,19 @@
+{
+  "name": "mycount",
+  "version": "0.0.1",
+  "description": "My Personal Accounting Tool",
+  "main": "mycount.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "envelope",
+    "accounting"
+  ],
+  "author": "Jonathan Claggett",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "standard": "^13.0.2"
+  }
+}
